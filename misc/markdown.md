@@ -2,4 +2,4 @@
 
 ## learing
 
-- [tutorial](https://commonmark.org/help/tutorial/)
+- tutorial <https://commonmark.org/help/tutorial/>
