@@ -3,3 +3,22 @@
 ## web component
 - sweetalert2 <https://sweetalert2.github.io/>
 - Quill <https://quilljs.com/>
+
+
+## ui framework
+- Vuetify <https://vuetifyjs.com/en/>
+- Element <https://element.eleme.io/#/en-US>
+- Quasar <https://quasar.dev/>
+- purecss <https://purecss.io/>
+- open-props <https://open-props.style/>
+
+
+## validation
+- vuelidate <https://vuelidate.js.org/>
+- vee-validate <https://www.npmjs.com/package/vee-validate>
+
+## animation
+- gsap <https://greensock.com/gsap/>
+- 
+## npm module
+- classnames <https://www.npmjs.com/package/classnames>
