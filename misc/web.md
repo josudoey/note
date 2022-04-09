@@ -27,3 +27,4 @@
 ## npm module
 - classnames <https://www.npmjs.com/package/classnames>
 - css-tree <https://www.npmjs.com/package/css-tree>
+- tailwindcss <https://www.npmjs.com/package/tailwindcss>
