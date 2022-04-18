@@ -37,3 +37,6 @@
 - fakeimg <https://fakeimg.pl/>
 - lorem <https://lorem.space/>
 - picsum <https://picsum.photos/>
+
+# cheat sheet
+- Cheat Sheets <https://overapi.com/>
