@@ -1,6 +1,11 @@
 # 閱讀紀錄
 
 
+## 2022-04-25
+ - 搶救茶壺大作戰: 418 I am a teapot <https://blog.techbridge.cc/2019/06/15/iam-a-teapot-418/>
+## 2022-04-23
+- 當代教育問題 <https://www.youtube.com/watch?v=4ZBc0et3fXo>
+- Mark Murphy 的4種溝通方式 <https://www.managertoday.com.tw/articles/view/57329?fbclid=IwAR0JLZfMjQvOBlTlM_qyfoTlJLryPjo0yU1x10UkwcqV-aVS0jmyp3rpAww>
 ## 2022-04-12
 - 專案經理第四話：勇敢面對需求訪談吧 <https://charissechu.pixnet.net/blog/post/35278859>
 ## 2022-04-11
