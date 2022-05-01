@@ -1,6 +1,9 @@
 # 閱讀紀錄
 
 
+## 2022-05-01
+- 認知發展過程<https://www.youtube.com/watch?v=aTeixm5ZdxI>
+
 ## 2022-04-25
  - 搶救茶壺大作戰: 418 I am a teapot <https://blog.techbridge.cc/2019/06/15/iam-a-teapot-418/>
 ## 2022-04-23
