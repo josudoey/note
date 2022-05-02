@@ -1,6 +1,8 @@
 # 閱讀紀錄
 
 
+## 2022-05-02
+- Radix tree<https://en.wikipedia.org/wiki/Radix_tree>
 ## 2022-05-01
 - 認知發展過程<https://www.youtube.com/watch?v=aTeixm5ZdxI>
 
