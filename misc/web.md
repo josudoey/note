@@ -40,3 +40,6 @@
 
 # cheat sheet
 - Cheat Sheets <https://overapi.com/>
+
+# funny
+- pointerpointer<https://pointerpointer.com/>
