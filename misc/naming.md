@@ -13,3 +13,6 @@
 - id 可能是有意義的文字
 - id 可以針對特定資訊query使用
 - id 不一定是 name
+
+# 詞彙備忘錄
+- principalEmail
