@@ -1,5 +1,8 @@
 # 閱讀紀錄
 
+## 2022-05-08
+- 命題<https://zh.wikipedia.org/zh-tw/%E5%91%BD%E9%A2%98>
+- 形式主義<https://zh.wikipedia.org/zh-tw/%E5%BD%A2%E5%BC%8F%E4%B8%BB%E4%B9%89>
 
 ## 2022-05-02
 - Radix tree<https://en.wikipedia.org/wiki/Radix_tree>
