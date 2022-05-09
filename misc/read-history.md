@@ -1,5 +1,10 @@
 # 閱讀紀錄
 
+## 2022-05-09
+- How-ClickHouse-Inspired-Us-to-Build-a-High-Performance-Time-Series-Database <https://altinity.com/wp-content/uploads/2021/11/How-ClickHouse-Inspired-Us-to-Build-a-High-Performance-Time-Series-Database.pdf>
+- prometheus <https://github.com/prometheus/prometheus>
+- VictoriaMetrics <https://github.com/VictoriaMetrics/VictoriaMetrics>
+
 ## 2022-05-08
 - 命題<https://zh.wikipedia.org/zh-tw/%E5%91%BD%E9%A2%98>
 - 形式主義<https://zh.wikipedia.org/zh-tw/%E5%BD%A2%E5%BC%8F%E4%B8%BB%E4%B9%89>
