@@ -1,6 +1,7 @@
 # 閱讀紀錄
 
 ## 2022-05-09
+- 不平衡資料的二元分類 <https://taweihuang.hpd.io/2018/12/28/imbalanced-data-performance-metrics/>
 - model_evaluation <https://scikit-learn.org/stable/modules/model_evaluation.html>
 - Accuracy_and_precision <https://en.wikipedia.org/wiki/Accuracy_and_precision>
 - How-ClickHouse-Inspired-Us-to-Build-a-High-Performance-Time-Series-Database <https://altinity.com/wp-content/uploads/2021/11/How-ClickHouse-Inspired-Us-to-Build-a-High-Performance-Time-Series-Database.pdf>
