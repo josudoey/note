@@ -1,5 +1,12 @@
 # 閱讀紀錄
 
+## 2022-05-13
+- S3 or DynamoDB <https://serverless.pub/s3-or-dynamodb/>
+
+## 2022-05-12
+- hyperloglog <https://engineering.fb.com/2018/12/13/data-infrastructure/hyperloglog/>
+- DHT <https://medium.com/taipei-ethereum-meetup/%E9%80%A3ethereum%E9%83%BD%E5%9C%A8%E7%94%A8-%E7%94%A8%E4%B8%80%E5%80%8B%E4%BE%8B%E5%AD%90%E5%BE%B9%E5%BA%95%E7%90%86%E8%A7%A3dht-f772ea2c6dcf>
+
 ## 2022-05-09
 - 不平衡資料的二元分類 <https://taweihuang.hpd.io/2018/12/28/imbalanced-data-performance-metrics/>
 - model_evaluation <https://scikit-learn.org/stable/modules/model_evaluation.html>
