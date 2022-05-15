@@ -1,5 +1,8 @@
 # 閱讀紀錄
 
+## 2022-05-15
+- Vue3 + TSX 最佳實務？ <https://juejin.cn/post/7007731144418394149>
+
 ## 2022-05-13
 - S3 or DynamoDB <https://serverless.pub/s3-or-dynamodb/>
 
