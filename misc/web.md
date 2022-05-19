@@ -33,6 +33,9 @@
 
 - yesno <https://yesno.wtf/>
 
+# benchmark
+- custom-elements-everywhere <https://custom-elements-everywhere.com/>
+
 # placeholder image
 - fakeimg <https://fakeimg.pl/>
 - lorem <https://lorem.space/>
