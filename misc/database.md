@@ -1,5 +1,8 @@
 # 資料庫相關
 
+## distributed SQL
+- cockroach <https://github.com/cockroachdb/cockroach>
+
 ## nosql
 - scylla <https://github.com/scylladb/scylla>
 - cassandra <https://github.com/apache/cassandra>
