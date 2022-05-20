@@ -1,5 +1,8 @@
 # 閱讀紀錄
 
+## 2022-05-20
+- CockroachDB vs (MySQL, PostgreSQL, MongoDB & Cassandra) <https://devathon.com/blog/cockroachdb-vs-mysql-vs-postgresql-vs-mongodb-vs-cassandra/>
+
 ## 2022-05-19
 - The history of VictoriaMetrics <https://altinity.com/wp-content/uploads/2021/11/How-ClickHouse-Inspired-Us-to-Build-a-High-Performance-Time-Series-Database.pdf>
 - Gossip Protocol <https://yuanchieh.page/posts/2020/2020-10-26-gossip-protocol-%E4%BB%8B%E7%B4%B9%E4%B8%8A/>
