@@ -1,5 +1,7 @@
 # 閱讀紀錄
 
+## 2022-05-22
+- 四種學習風格 <https://www.youtube.com/watch?v=CyXBXx045Jw>
 ## 2022-05-20
 - CockroachDB vs (MySQL, PostgreSQL, MongoDB & Cassandra) <https://devathon.com/blog/cockroachdb-vs-mysql-vs-postgresql-vs-mongodb-vs-cassandra/>
 
