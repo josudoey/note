@@ -1,7 +1,13 @@
 # 閱讀紀錄
 
+
+## 2022-05-25
+- 需求 (產品開發) <https://zh.m.wikipedia.org/zh-tw/%E9%9C%80%E6%B1%82_(%E7%94%A2%E5%93%81%E9%96%8B%E7%99%BC)>
+
 ## 2022-05-22
+- 數學的第三次危機 <https://www.youtube.com/watch?v=innTVh4I6FY>
 - 四種學習風格 <https://www.youtube.com/watch?v=CyXBXx045Jw>
+
 ## 2022-05-20
 - CockroachDB vs (MySQL, PostgreSQL, MongoDB & Cassandra) <https://devathon.com/blog/cockroachdb-vs-mysql-vs-postgresql-vs-mongodb-vs-cassandra/>
 
