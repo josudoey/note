@@ -48,3 +48,4 @@
 - pointerpointer<https://pointerpointer.com/>
 - window 98<https://98.js.org/>
 - emupedia https://emupedia.net/beta/emuos/
+- akinator <https://cn.akinator.com/game>
