@@ -1,6 +1,10 @@
 # 閱讀紀錄
 
 
+## 2022-06-02
+- django contrib <https://docs.djangoproject.com/en/dev/ref/contrib/>
+- batteries included philosophy <https://docs.python.org/3/tutorial/stdlib.html#tut-batteries-included>
+
 ## 2022-05-25
 - 需求 (產品開發) <https://zh.m.wikipedia.org/zh-tw/%E9%9C%80%E6%B1%82_(%E7%94%A2%E5%93%81%E9%96%8B%E7%99%BC)>
 
