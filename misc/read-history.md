@@ -1,7 +1,10 @@
 # 閱讀紀錄
 
+## 2022-06-06
+- Difference between Job, Task and Process <https://www.geeksforgeeks.org/difference-between-job-task-and-process/>
 
 ## 2022-06-02
+- Understanding Nil <https://www.youtube.com/watch?v=ynoY2xz-F8s>
 - django contrib <https://docs.djangoproject.com/en/dev/ref/contrib/>
 - batteries included philosophy <https://docs.python.org/3/tutorial/stdlib.html#tut-batteries-included>
 
