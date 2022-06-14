@@ -1,5 +1,14 @@
 # 閱讀紀錄
 
+
+## 2022-06-14
+- golang goroutine <https://alanzhan.dev/post/2022-01-24-golang-goroutine/>
+- web5 <https://developer.tbd.website/projects/web5/>
+
+## 2022-06-13
+- 沉默螺旋 <https://www.managertoday.com.tw/glossary/view/55>
+## 2022-06-08
+- facebook gorilla tsdb <https://www.evanlin.com/gorilla-facebook-tsdb/>
 ## 2022-06-06
 - Difference between Job, Task and Process <https://www.geeksforgeeks.org/difference-between-job-task-and-process/>
 
