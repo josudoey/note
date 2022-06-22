@@ -5,7 +5,8 @@
 - CAP Theorem 介紹 <https://ithelp.ithome.com.tw/articles/10216500>
 - 新創團隊價值點 <https://www.bnext.com.tw/article/68057/startup-team-valuation>
 - 死亡之谷 <https://www.gvm.com.tw/article/53918>
-
+- Binary Indexed Tree <https://www.796t.com/content/1546285687.html>
+  
 ## 2022-06-14
 - golang goroutine <https://alanzhan.dev/post/2022-01-24-golang-goroutine/>
 - web5 <https://developer.tbd.website/projects/web5/>
