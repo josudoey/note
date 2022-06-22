@@ -1,6 +1,11 @@
 # 閱讀紀錄
 
 
+## 2022-06-22
+- CAP Theorem 介紹 <https://ithelp.ithome.com.tw/articles/10216500>
+- 新創團隊價值點 <https://www.bnext.com.tw/article/68057/startup-team-valuation>
+- 死亡之谷 <https://www.gvm.com.tw/article/53918>
+
 ## 2022-06-14
 - golang goroutine <https://alanzhan.dev/post/2022-01-24-golang-goroutine/>
 - web5 <https://developer.tbd.website/projects/web5/>
