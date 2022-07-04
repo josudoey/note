@@ -1,11 +1,18 @@
 # 閱讀紀錄
 
+## 2022-07-04
+- 成功的反思-Michael Sandel <https://www.youtube.com/watch?v=dBHV-BGUmws>
+- 哲學研究-維根斯坦 <https://www.youtube.com/watch?v=8-hnkqgvGfc>
+
+## 2022-06-24
+- C 語言：執行階段程式庫 <https://www.youtube.com/watch?v=qAVdTrC7YyU>
 
 ## 2022-06-22
 - CAP Theorem 介紹 <https://ithelp.ithome.com.tw/articles/10216500>
 - 新創團隊價值點 <https://www.bnext.com.tw/article/68057/startup-team-valuation>
 - 死亡之谷 <https://www.gvm.com.tw/article/53918>
 - Binary Indexed Tree <https://www.796t.com/content/1546285687.html>
+- Linux Dev Review <https://hackmd.io/@sysprog/linux-dev-review>
   
 ## 2022-06-14
 - golang goroutine <https://alanzhan.dev/post/2022-01-24-golang-goroutine/>
