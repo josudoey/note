@@ -1,5 +1,18 @@
 # 閱讀紀錄
 
+
+## 2022-09-10
+-  布萊恩·柯林漢 https://www.techbang.com/posts/99399-at-the-age-of-80-he-is-still-changing-the-code-he-is-the-name?from=home_news&fbclid=IwAR2O_ghXI8oP4FkayzXG9kBYaPr10dxlthjBFUXTXR85LTCx_n4XHoRICUY
+-  https://arstechnica.com/gadgets/2022/08/unix-legend-who-owes-us-nothing-keeps-fixing-foundational-awk-code/
+
+
+## 2022-07-19
+- Hardware Memory Models <https://research.swtch.com/hwmm>
+- CPU Core, Multi-Core, Thread, Core vs Threads, Hyper-Threading <https://www.guru99.com/cpu-core-multicore-thread.html>
+## 2022-07-06
+- Design by Contract<http://teddy-chen-tw.blogspot.com/2010/04/8.html>
+- PaaS - k8s  <https://ithelp.ithome.com.tw/articles/10227834>
+
 ## 2022-07-04
 - 成功的反思-Michael Sandel <https://www.youtube.com/watch?v=dBHV-BGUmws>
 - 哲學研究-維根斯坦 <https://www.youtube.com/watch?v=8-hnkqgvGfc>
