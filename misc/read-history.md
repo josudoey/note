@@ -1,6 +1,14 @@
 # 閱讀紀錄
 
 
+## 2022-10-11
+
+- Pure ESM package https://gist.github.com/sindresorhus/a39789f98801d908bbc7ff3ecc99d99c
+
+## 2022-10-07
+
+- 零信任架構邏輯元件 https://ithome.com.tw/tech/152384
+
 ## 2022-09-10
 -  布萊恩·柯林漢 https://www.techbang.com/posts/99399-at-the-age-of-80-he-is-still-changing-the-code-he-is-the-name?from=home_news&fbclid=IwAR2O_ghXI8oP4FkayzXG9kBYaPr10dxlthjBFUXTXR85LTCx_n4XHoRICUY
 -  https://arstechnica.com/gadgets/2022/08/unix-legend-who-owes-us-nothing-keeps-fixing-foundational-awk-code/
