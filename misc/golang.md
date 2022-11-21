@@ -3,6 +3,7 @@
 ## util
 
 - [json-iterator](https://github.com/json-iterator/go)
+- [protoreflect](https://github.com/jhump/protoreflect)
 
 ## web framework
 - [go-restful](https://github.com/emicklei/go-restful)
