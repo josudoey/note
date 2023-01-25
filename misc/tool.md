@@ -7,3 +7,7 @@
 
 - https://heptabase.com/
 - https://logseq.com/
+
+
+## network debug
+- [charles proxy](https://www.charlesproxy.com/)
