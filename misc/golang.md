@@ -4,6 +4,7 @@
 
 - [json-iterator](https://github.com/json-iterator/go)
 - [protoreflect](https://github.com/jhump/protoreflect)
+- [go-errors](https://github.com/go-errors/errors)
 
 ## web framework
 - [go-restful](https://github.com/emicklei/go-restful)
