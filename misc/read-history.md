@@ -1,6 +1,14 @@
 # 閱讀紀錄
 
 
+## 2022-01-11
+
+- 淺談資料類型 https://medium.com/marketingdatascience/%E6%B7%BA%E8%AB%87%E8%B3%87%E6%96%99%E9%A1%9E%E5%9E%8B-%E7%A0%94%E7%A9%B6%E8%B3%87%E6%96%99-d9bb456c2fef
+
+## 2022-12-29
+- 到底 Context 是什麼? https://vide.hpx.tw/1351
+- Natural sort order https://en.wikipedia.org/wiki/Natural_sort_order
+
 ## 2022-10-11
 
 - Pure ESM package https://gist.github.com/sindresorhus/a39789f98801d908bbc7ff3ecc99d99c
