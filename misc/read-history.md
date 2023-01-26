@@ -1,7 +1,9 @@
 # 閱讀紀錄
 
+## 2023-01-26
+- 看漫畫學 Linux https://hackmd.io/@sysprog/linux-comic?fbclid=IwAR0lx3YqwVkmJag9h3qS54Gty8mUfq_N_CeMG2Bybk8khg7B1DRxIumw-F0
 
-## 2022-01-11
+## 2023-01-11
 
 - 淺談資料類型 https://medium.com/marketingdatascience/%E6%B7%BA%E8%AB%87%E8%B3%87%E6%96%99%E9%A1%9E%E5%9E%8B-%E7%A0%94%E7%A9%B6%E8%B3%87%E6%96%99-d9bb456c2fef
 
