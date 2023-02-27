@@ -1,5 +1,11 @@
 # 閱讀紀錄
 
+## 2023-02-27
+- 有 react fiber，爲什麼不需要 vue fiber？ https://zhuanlan.zhihu.com/p/484995651
+
+## 2023-02-17
+- engineer blogs https://github.com/sumodirjo/engineering-blogs
+
 ## 2023-01-26
 - 看漫畫學 Linux https://hackmd.io/@sysprog/linux-comic?fbclid=IwAR0lx3YqwVkmJag9h3qS54Gty8mUfq_N_CeMG2Bybk8khg7B1DRxIumw-F0
 
